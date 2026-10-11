@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    HHR_RUNTM: 20
+  response: 7E8056211A10014
+- expected_values:
+    HHR_RUNTM: 84
+  response: 7E8056211A10054
+- expected_values:
+    HHR_RUNTM: 123
+  response: 7E8056211A1007B
+- expected_values:
+    HHR_RUNTM: 155
+  response: 7E8056211A1009B
+- expected_values:
+    HHR_RUNTM: 161
+  response: 7E8056211A100A1
+- expected_values:
+    HHR_RUNTM: 178
+  response: 7E8056211A100B2
+- expected_values:
+    HHR_RUNTM: 192
+  response: 7E8056211A100C0
+- expected_values:
+    HHR_RUNTM: 227
+  response: 7E8056211A100E3
+- expected_values:
+    HHR_RUNTM: 258
+  response: 7E8056211A10102
+- expected_values:
+    HHR_RUNTM: 289
+  response: 7E8056211A10121
