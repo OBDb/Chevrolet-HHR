@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_HHR"
+
+generations:
+  - name: "First Generation"
+    start_year: 2006
+    end_year: 2011
+    description: "A retro-styled wagon and panel van on the GM Delta platform shared with the Cobalt, with 2.2 L and 2.4 L Ecotec engines and a 2.0 L turbo in the SS."

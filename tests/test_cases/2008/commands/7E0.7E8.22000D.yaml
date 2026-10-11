@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    HHR_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    HHR_VSS: 28
+  response: 7E80462000D1C
+- expected_values:
+    HHR_VSS: 36
+  response: 7E80462000D24
+- expected_values:
+    HHR_VSS: 51
+  response: 7E80462000D33
+- expected_values:
+    HHR_VSS: 73
+  response: 7E80462000D49
